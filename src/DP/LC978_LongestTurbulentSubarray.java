@@ -1,6 +1,6 @@
 package DP;
 
-public class LC987_LongestTurbulentSubarray {
+public class LC978_LongestTurbulentSubarray {
 
     // Dynamic programing
     // Similar to longest subarray

@@ -15,7 +15,7 @@ This is weekly record sumary from **January 25, 2021**:
  
 * [x] Feb 01 - Feb 07
 * E: 3
-* M: 1
+* M: 2
 * H: 
 
 * [ ] Feb 08 - Feb 12
@@ -38,4 +38,4 @@ This is weekly record sumary from **January 25, 2021**:
 |[LC 665](https://leetcode-cn.com/problems/non-decreasing-array/ "non-decreasing-array")  | [sol 665](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/Greedy/LC665_NonDecresingArray.java) | Greedy|E|
 |[LC 141](https://leetcode-cn.com/problems/linked-list-cycle/ "linked-list-cycle")  | [sol 141](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/LinkedList/LC141_LinkedListCircle.java) | Linked List, two pointers|E|
 |[LC 142](https://leetcode-cn.com/problems/linked-list-cycle-ii/ "linked-list-cycle-ii")  | [sol 142](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/LinkedList/LC142_LinkedListCircleII.java) | Linked List, two pointers or set|M|
-
+|[LC 978](https://leetcode-cn.com/problems/longest-turbulent-subarray/ "longest-turbulent-subarray")  | [sol 978](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/DP/LC978_LongestTurbulentSubarray.java) | DP, longest XXX |M|
