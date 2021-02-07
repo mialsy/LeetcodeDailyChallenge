@@ -14,7 +14,7 @@ This is weekly record sumary from **January 25, 2021**:
 * H: 
  
 * [x] Feb 01 - Feb 07
-* E: 2
+* E: 3
 * M: 1
 * H: 
 
