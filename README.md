@@ -36,5 +36,5 @@ This is weekly record sumary from **January 25, 2021**:
 |[LC 206](https://leetcode-cn.com/problems/reverse-linked-list/ "reverse-linked-list")  | [sol 206](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/LinkedList/LC206_ReverseLinkedList.java) | Linked List|E|
 |[LC 643](https://leetcode-cn.com/problems/maximum-average-subarray-i/ "maximum-average-subarray-i")  | [sol 643](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/SlidingWindow/LC643_MaximumAverageSubarry.java) | Sliding Window |E|
 |[LC 665](https://leetcode-cn.com/problems/non-decreasing-array/ "non-decreasing-array")  | [sol 665](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/Greedy/LC665_NonDecresingArray.java) | Greedy|E|
-|[LC 141](https://leetcode-cn.com/problems/linked-list-cycle/ "linked-list-cycle")  | [sol 141](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/Greedy/LC141_LinkedListCircle.java) | Linked List, two pointers|E|
+|[LC 141](https://leetcode-cn.com/problems/linked-list-cycle/ "linked-list-cycle")  | [sol 141](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/LinkedList/LC141_LinkedListCircle.java) | Linked List, two pointers|E|
 
