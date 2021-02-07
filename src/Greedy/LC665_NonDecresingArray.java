@@ -20,8 +20,9 @@ public class LC665_NonDecresingArray {
                 if (modTimes > 1) {
                     return false;
                 }
-
-                // Compared
+                // Compared i + 1 and i - 1
+                // if nums[i + 1] >= nums[i - 1], if nums[i + 2] > nums[i+ 1], then nums[i + 2] > nums[i - 1]
+                // else need to update to nums[i], so that nums[i+1] in the future is larger or equal to nums[i]
                 if (i > 0 && nums[i + 1] < nums[i - 1]) {
                     nums[i + 1] = nums[i];
                 }
