@@ -1,5 +1,8 @@
 package LinkedList;
 
+import java.util.HashSet;
+import java.util.Set;
+
 public class LC142_LinkedListCircleII {
     // solution one: use two pointer
     // Time: O(n)
