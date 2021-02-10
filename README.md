@@ -21,7 +21,7 @@ This is weekly record sumary from **January 25, 2021**:
 * [x] Feb 08 - Feb 12
     * [x] E: 1
     * [x] M: 7
-    * [x] H: 1
+    * [x] H: 3
 
 
 ## For CS545 extra credit purpose:
@@ -47,5 +47,7 @@ This is weekly record sumary from **January 25, 2021**:
 |[LC 567](https://leetcode-cn.com/problems/permutation-in-string/ "permutation-in-string")  | [sol 567](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/SlidingWindow/LC567_PermutationString.java) | Sliding Window |M|
 |[LC 215](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/ "kth-largest-element-in-an-array")  | [sol 215](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/StackQueueHeap/LC215_KthLagestInArray.java) | minheap |M|
 |[LC 1110](https://leetcode-cn.com/problems/delete-nodes-and-return-forest/ "delete-nodes-and-return-forest")  | [sol 1110](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/MyFavDataStructure/LC1110_DeleteNodeAndReturnForest.java) | tree |M|
-|[LC 776](https://leetcode-cn.com/problems/split-bst/ "split-bst")  | [sol 776](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/MyFavDataStructure/LC776_SplitBSTjava) | tree |M|
+|[LC 776](https://leetcode-cn.com/problems/split-bst/ "split-bst")  | [sol 776](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/MyFavDataStructure/LC776_SplitBST.java) | tree |M|
+|[LC 295](https://leetcode-cn.com/problems/find-median-from-data-stream/ "find-median-from-data-stream")  | [sol 295](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/Design/LC295_FindMedianFromStream.java) | design |H|
+|[LC 127](https://leetcode-cn.com/problems/word-ladder/ "word-ladder")  | [sol 127](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/GraphSearch/LC127_word_ladder.java) | BFS |H|
 
