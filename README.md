@@ -20,7 +20,7 @@ This is weekly record sumary from **January 25, 2021**:
 
 * [x] Feb 08 - Feb 12
     * [x] E: 1
-    * [x] M: 6
+    * [x] M: 7
     * [x] H: 1
 
 
@@ -46,6 +46,6 @@ This is weekly record sumary from **January 25, 2021**:
 |[LC 31](https://leetcode-cn.com/problems/next-permutation/ "next-permutation")  | [sol 31](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/Other/LC31_NextPermutation.java) | Other |M|
 |[LC 567](https://leetcode-cn.com/problems/permutation-in-string/ "permutation-in-string")  | [sol 567](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/SlidingWindow/LC567_PermutationString.java) | Sliding Window |M|
 |[LC 215](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/ "kth-largest-element-in-an-array")  | [sol 215](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/StackQueueHeap/LC215_KthLagestInArray.java) | minheap |M|
-|[LC 1110](https://leetcode-cn.com/problems/delete-nodes-and-return-forest/ "delete-nodes-and-return-forest")  | [sol 1110](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/MyFavDataStructure/LC1110_DeleteNodeAndReturnForest.java) | three |M|
-
+|[LC 1110](https://leetcode-cn.com/problems/delete-nodes-and-return-forest/ "delete-nodes-and-return-forest")  | [sol 1110](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/MyFavDataStructure/LC1110_DeleteNodeAndReturnForest.java) | tree |M|
+|[LC 776](https://leetcode-cn.com/problems/split-bst/ "split-bst")  | [sol 776](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/MyFavDataStructure/LC776_SplitBSTjava) | tree |M|
 
