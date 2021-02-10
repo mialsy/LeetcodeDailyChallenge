@@ -20,7 +20,7 @@ This is weekly record sumary from **January 25, 2021**:
 
 * [x] Feb 08 - Feb 12
     * [x] E: 1
-    * [x] M:
+    * [x] M: 2
     * [x] H: 1
 
 
@@ -40,5 +40,8 @@ This is weekly record sumary from **January 25, 2021**:
 |[LC 142](https://leetcode-cn.com/problems/linked-list-cycle-ii/ "linked-list-cycle-ii")  | [sol 142](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/LinkedList/LC142_LinkedListCircleII.java) | Linked List, two pointers or set|M|
 |[LC 978](https://leetcode-cn.com/problems/longest-turbulent-subarray/ "longest-turbulent-subarray")  | [sol 978](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/DP/LC978_LongestTurbulentSubarray.java) | DP, longest XXX |M|
 |[LC 121](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/ "best-time-to-buy-and-sell-stock")  | [sol 121](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/DP/LC121_SellStock.java) | DP |E|
-|[LC 41](https://leetcode-cn.com/problems/first-missing-positive/ "first-missing-positive")  | [sol 41](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/other/LC41_FirstMissingNumber) | other |H|
+|[LC 41](https://leetcode-cn.com/problems/first-missing-positive/ "first-missing-positive")  | [sol 41](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/Other/LC41_FirstMissingNumber) | other |H|
+|[LC 151](https://leetcode-cn.com/problems/reverse-words-in-a-string/ "reverse-words-in-a-string")  | [sol 151](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/String/LC151_ReverseWords.java) | String |M|
+|[LC 739](https://leetcode-cn.com/problems/daily-temperatures/ "daily-temperatures")  | [sol 739](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/KMP/LC739_DailyTemperature.java) | KMP |M|
+
 
