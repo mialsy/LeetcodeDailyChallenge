@@ -18,10 +18,10 @@ This is weekly record sumary from **January 25, 2021**:
     * [x] M: 2
     * [ ] H: 
 
-* [ ] Feb 08 - Feb 12
-    * [ ] E:
-    * [ ] M:
-    * [ ] H: 
+* [x] Feb 08 - Feb 12
+    * [x] E:
+    * [x] M:
+    * [x] H: 
 
 
 ## For CS545 extra credit purpose:
