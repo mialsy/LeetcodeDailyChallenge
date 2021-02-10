@@ -20,7 +20,7 @@ This is weekly record sumary from **January 25, 2021**:
 
 * [x] Feb 08 - Feb 12
     * [x] E: 1
-    * [x] M: 3
+    * [x] M: 4
     * [x] H: 1
 
 
@@ -43,6 +43,7 @@ This is weekly record sumary from **January 25, 2021**:
 |[LC 41](https://leetcode-cn.com/problems/first-missing-positive/ "first-missing-positive")  | [sol 41](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/Other/LC41_FirstMissingNumber) | other |H|
 |[LC 151](https://leetcode-cn.com/problems/reverse-words-in-a-string/ "reverse-words-in-a-string")  | [sol 151](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/String/LC151_ReverseWords.java) | String |M|
 |[LC 739](https://leetcode-cn.com/problems/daily-temperatures/ "daily-temperatures")  | [sol 739](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/KMP/LC739_DailyTemperature.java) | KMP |M|
-|[LC 31](https://leetcode-cn.com/problems/next-permutation/ "next-permutation")  | [sol 31](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/KMP/Other/LC31_NextPermutation.java) | Other |M|
+|[LC 31](https://leetcode-cn.com/problems/next-permutation/ "next-permutation")  | [sol 31](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/Other/LC31_NextPermutation.java) | Other |M|
+|[LC 567](https://leetcode-cn.com/problems/permutation-in-string/ "permutation-in-string")  | [sol 567](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/SlidingWindow/LC567_PermutationString) | Sliding Window |M|
 
 
