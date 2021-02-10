@@ -1,4 +1,4 @@
-package Other;
+package DP;
 
 public class LC121_SellStock {
     public int maxProfit(int[] prices) {
