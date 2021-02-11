@@ -8,20 +8,10 @@ Author: **Chuxi Wang**
 
 This is weekly record sumary from **January 25, 2021**:
 
-* [x] Jan 25 - Jan 31
-    * [x] E: 3
-    * [ ] M:
-    * [ ] H: 
- 
-* [x] Feb 01 - Feb 07
-    * [x] E: 3
-    * [x] M: 2
-    * [ ] H: 
-
-* [x] Feb 08 - Feb 12
-    * [x] E: 1
+* [x] Jan 25 - Feb 12
+    * [x] E: 6
     * [x] M: 7
-    * [x] H: 3
+    * [x] H: 1
 
 
 ## For CS545 extra credit purpose:
