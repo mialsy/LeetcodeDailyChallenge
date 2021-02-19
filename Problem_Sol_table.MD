@@ -24,3 +24,4 @@
 |[LC 127](https://leetcode-cn.com/problems/word-ladder/ "word-ladder")  | [sol 127](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/GraphSearch/LC127_word_ladder.java) | BFS |H|
 |[LC 448](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/ "find-all-numbers-disappeared-in-an-array")  | [sol 448](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/Other/LC448_AllMissingNumbers.java) | label based on the index |E|
 |[LC 532](https://leetcode-cn.com/problems/k-diff-pairs-in-an-array/ "k-diff-pairs-in-an-array")  | [sol 532](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/Hash/LC532_KdiffPairInArray.java) | hash set |M|
+|[LC 495](https://leetcode-cn.com/problems/teemo-attacking/ "teemo-attacking")  | [sol 495](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/LinearScan/LC495_TeemoAttacking) | linear scan |M|
