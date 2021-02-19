@@ -22,3 +22,4 @@
 |[LC 776](https://leetcode-cn.com/problems/split-bst/ "split-bst")  | [sol 776](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/MyFavDataStructure/LC776_SplitBST.java) | tree |M|
 |[LC 295](https://leetcode-cn.com/problems/find-median-from-data-stream/ "find-median-from-data-stream")  | [sol 295](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/Design/LC295_FindMedianFromStream.java) | design |H|
 |[LC 127](https://leetcode-cn.com/problems/word-ladder/ "word-ladder")  | [sol 127](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/GraphSearch/LC127_word_ladder.java) | BFS |H|
+|[LC 448](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/ "find-all-numbers-disappeared-in-an-array")  | [sol 448](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/Other/LC448_AllMissingNumbers.java) | label based on the index |E|
