@@ -36,5 +36,4 @@
 |[LC 20](https://leetcode-cn.com/problems/valid-parentheses/ "valid-parentheses")  | [sol 20](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/StackQueueHeap/LC20_ValidPareheses) | stack |E|
 |[LC 169](https://leetcode-cn.com/problems/majority-element/ "majority-element")  | [sol 169](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/Other/LC169_MajorityElement) | other |E|
 |[LC 1](https://leetcode-cn.com/problems/two-sum/ "two-sum")  | [sol 1](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/Hash/LC1_TwoSum) | Hash table |E|
-
-|[LC 1091](https://leetcode-cn.com/problems/shortest-path-in-binary-matrix/ "shortest-path-in-binary-matrix")  | [sol 1091](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/StackQueueHeap/LC1091_ShortPathInBinaryMatrix) | queue, bfs |M|
+|[LC 995](https://leetcode-cn.com/problems/minimum-number-of-k-consecutive-bit-flips/ "minimum-number-of-k-consecutive-bit-flips")  | [sol 995](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/StackQueueHeap/LC995_MinNumberOfKConsecutiveBitFlips) | queue |H|
