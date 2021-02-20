@@ -29,5 +29,4 @@
 |[LC 617](https://leetcode-cn.com/problems/merge-two-binary-trees/ "merge-two-binary-trees")  | [sol 617](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/MyFavDataStructure/LC617_MergeTwoBinaryTree) | Tree, recursion |E|
 |[LC 1370](https://leetcode-cn.com/problems/increasing-decreasing-string/ "increasing-decreasing-string")  | [sol 1370](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/String/LC1370_IncreasingDecreasingString) | count freq, string |E|
 |[LC 140](https://leetcode-cn.com/problems/lru-cache/ "lru-cache")  | [sol 140](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/Design/LC140_LRU_cache) | design |M|
-
-|[LC 495](https://leetcode-cn.com/problems/teemo-attacking/ "teemo-attacking")  | [sol 495](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/LinearScan/LC495_TeemoAttacking) | linear scan |M|
+|[LC 561](https://leetcode-cn.com/problems/array-partition-i/ "array-partition-i")  | [sol 561](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/Sort/LC561_ArrayPartitionI) | sort |E|
