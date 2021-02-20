@@ -37,3 +37,7 @@
 |[LC 169](https://leetcode-cn.com/problems/majority-element/ "majority-element")  | [sol 169](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/Other/LC169_MajorityElement) | other |E|
 |[LC 1](https://leetcode-cn.com/problems/two-sum/ "two-sum")  | [sol 1](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/Hash/LC1_TwoSum) | Hash table |E|
 |[LC 995](https://leetcode-cn.com/problems/minimum-number-of-k-consecutive-bit-flips/ "minimum-number-of-k-consecutive-bit-flips")  | [sol 995](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/StackQueueHeap/LC995_MinNumberOfKConsecutiveBitFlips) | queue |H|
+|[LC 15](https://leetcode-cn.com/problems/3sum/ "3sum")  | [sol 15](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/TwoPointer/LC15_ThreeSum) | two pointers |M|
+|[LC 88](https://leetcode-cn.com/problems/merge-sorted-array/ "merge-sorted-array")  | [sol 88](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/TwoPointer/LC88_MergeSortedArray) | two pointers |E|
+|[LC 19](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/ "remove-nth-node-from-end-of-list")  | [sol 19](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/TwoPointer/LC19_RemoveNthNodeFromEndOfList) | two pointers |M|
+
