@@ -15,7 +15,7 @@ This is weekly record sumary from **January 25, 2021**:
 
 
 ## For CS545 extra credit purpose:
-### Jan 13 - Feb 19
+### Feb 13 - Feb 19
 * Overview: (just for record of the poblems I submmited, please review the following table for the problems I want to submit for extra credit)
 
 <img src="https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/Resources/Images/ScreenShot2021-02-19One.png" 
