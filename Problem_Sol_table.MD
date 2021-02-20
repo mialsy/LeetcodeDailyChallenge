@@ -28,7 +28,7 @@
 |[LC 485](https://leetcode-cn.com/problems/max-consecutive-ones/ "max-consecutive-ones")  | [sol 485](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/DP/LC485_MaxConsecutiveOnes) | DP |E|
 
 
-|[LC 495](https://leetcode-cn.com/problems/teemo-attacking/ "teemo-attacking")  | [sol 495](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/LinearScan/LC495_TeemoAttacking) | linear scan |M|
+|[LC 617](https://leetcode-cn.com/problems/merge-two-binary-trees/ "merge-two-binary-trees")  | [sol 617](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/MyFavDataStructure/LC617_MergeTwoBinaryTree) | Tree, recursion |E|
 
 |[LC 495](https://leetcode-cn.com/problems/teemo-attacking/ "teemo-attacking")  | [sol 495](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/LinearScan/LC495_TeemoAttacking) | linear scan |M|
 
