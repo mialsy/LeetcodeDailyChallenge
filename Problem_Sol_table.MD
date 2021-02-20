@@ -32,7 +32,7 @@
 |[LC 561](https://leetcode-cn.com/problems/array-partition-i/ "array-partition-i")  | [sol 561](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/Sort/LC561_ArrayPartitionI) | sort |E|
 |[LC 1091](https://leetcode-cn.com/problems/shortest-path-in-binary-matrix/ "shortest-path-in-binary-matrix")  | [sol 1091](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/StackQueueHeap/LC1091_ShortPathInBinaryMatrix) | queue, bfs |M|
 
-|[LC 1091](https://leetcode-cn.com/problems/shortest-path-in-binary-matrix/ "shortest-path-in-binary-matrix")  | [sol 1091](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/StackQueueHeap/LC1091_ShortPathInBinaryMatrix) | queue, bfs |M|
+|[LC 207](https://leetcode-cn.com/problems/course-schedule/ "course-schedule")  | [sol 207](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/GraphSearch/LC207_CourseSchedule) | bfs |M|
 
 |[LC 1091](https://leetcode-cn.com/problems/shortest-path-in-binary-matrix/ "shortest-path-in-binary-matrix")  | [sol 1091](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/StackQueueHeap/LC1091_ShortPathInBinaryMatrix) | queue, bfs |M|
 

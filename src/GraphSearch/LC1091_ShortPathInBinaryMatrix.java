@@ -1,4 +1,4 @@
-package StackQueueHeap;
+package GraphSearch;
 
 import java.util.ArrayDeque;
 import java.util.Queue;
