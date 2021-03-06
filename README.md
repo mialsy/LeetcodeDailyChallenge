@@ -10,7 +10,7 @@ This is weekly record summary from **Feb 27, 2021**:
 
 Record not updated due to interview.
 
-* [ ] Feb 27 - Mar 5
+* [x] Feb 27 - Mar 5
     * [ ] E: 
     * [ ] M: 
     * [ ] H: 
@@ -53,6 +53,8 @@ This is weekly record summary from **Jan 25, 2021**:
 |  Leetcode Link| Solution Link | Keyword | E/M/H? |
 | ------------- | ------------- | ------------- |------------- |
 |[LC 304](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/ "range-sum-query-2d-immutable")  | [sol 304](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/DP/LC304_range_sum_query.java) | DP |M|
+|[LC 14](https://leetcode-cn.com/problems/longest-common-prefix/ "longest-common-prefix")  | [sol 14](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/String/LC14_LongestCommonPrefix.java) | String |E|
+|[LC 496](https://leetcode-cn.com/problems/next-greater-element-i/ "next-greater-element-i")  | [sol 496](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/StackQueueHeap/Monostack/LC496_NextGreaterElementI.java) | Monotonic stack |E|
 
 
 ### Feb 13 - Feb 19
