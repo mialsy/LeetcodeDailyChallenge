@@ -19,9 +19,9 @@ This is weekly record summary from **Feb 20, 2021**:
 
 Record not updated due to interview.
 
-* [ ] Feb 20 - Feb 26
-    * [ ] E: 
-    * [ ] M: 
+* [x] Feb 20 - Feb 26
+    * [x] E: 2 
+    * [x] M: 2 
     * [ ] H: 
     
 This is weekly record summary from **Feb 13, 2021**:
@@ -55,6 +55,7 @@ This is weekly record summary from **Jan 25, 2021**:
 |[LC 304](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/ "range-sum-query-2d-immutable")  | [sol 304](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/DP/LC304_range_sum_query.java) | DP |M|
 |[LC 14](https://leetcode-cn.com/problems/longest-common-prefix/ "longest-common-prefix")  | [sol 14](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/String/LC14_LongestCommonPrefix.java) | String |E|
 |[LC 496](https://leetcode-cn.com/problems/next-greater-element-i/ "next-greater-element-i")  | [sol 496](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/StackQueueHeap/Monostack/LC496_NextGreaterElementI.java) | Monotonic stack |E|
+|[LC 503](https://leetcode-cn.com/problems/next-greater-element-ii/ "next-greater-element-ii")  | [sol 503](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/StackQueueHeap/StackQueueHeap/Monostack/LC503_NextGreaterElementII.java) | Monotonic stack |M|
 
 
 ### Feb 13 - Feb 19
