@@ -44,4 +44,5 @@
 |[LC 1047](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/ "remove-all-adjacent-duplicates-in-string")  | [sol 1047](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/StackQueueHeap/LC1047_RemoveAdjecentDuplicates.java) | stack |E|
 |[LC 232](https://leetcode-cn.com/problems/implement-queue-using-stacks/ "implement-queue-using-stacks")  | [sol 232](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/StackQueueHeap/LC232_QueueByStack.java) | stack, queue |E|
 |[LC 225](https://leetcode-cn.com/problems/implement-stack-using-queues/ "implement-stack-using-queues")  | [sol 225](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/StackQueueHeap/LC225_StackByQueue.java) | stack, queue |E|
+|[LC 132](https://leetcode-cn.com/problems/palindrome-partitioning-ii/ "palindrome-partitioning-ii")  | [sol 132](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/DP/LC132_ParlindromePartition.java) | DP |H|
 
