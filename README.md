@@ -45,6 +45,11 @@ This is weekly record summary from **Jan 25, 2021**:
 * Overview: (just for record of the problems I submitted, please review the following table for the problems I want to submit for extra credit)
 
 
+|  Leetcode Link| Solution Link | Keyword | E/M/H? |
+| ------------- | ------------- | ------------- |------------- |
+|[LC 1047](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/ "remove-all-adjacent-duplicates-in-string")  | [sol 1047](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/StackQueueHeap/LC1047_RemoveAdjecentDuplicates.java) | stack |E|
+|[LC 232](https://leetcode-cn.com/problems/implement-queue-using-stacks/ "implement-queue-using-stacks")  | [sol 232](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/StackQueueHeap/LC232_QueueByStack.java) | stack, queue |E|
+
 
 
 ### Feb 27 - Mar 5
