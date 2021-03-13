@@ -48,7 +48,10 @@ This is weekly record summary from **Jan 25, 2021**:
 ### Mar 6 - Mar 12
 * Overview: (just for record of the problems I submitted, please review the following table for the problems I want to submit for extra credit)
 
-
+<img src="https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/Resources/Images/Screen%20Shot%202021-03-12%20at%209.35.53%20PM.png" 
+      alt ="overview progress from Feb 27 - Mar 5, let me know if the img is broken"
+      width = "600" />
+      
 |  Leetcode Link| Solution Link | Keyword | E/M/H? |
 | ------------- | ------------- | ------------- |------------- |
 |[LC 1047](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/ "remove-all-adjacent-duplicates-in-string")  | [sol 1047](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/StackQueueHeap/LC1047_RemoveAdjecentDuplicates.java) | stack |E|
