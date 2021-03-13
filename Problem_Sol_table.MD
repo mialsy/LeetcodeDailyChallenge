@@ -41,4 +41,5 @@
 |[LC 88](https://leetcode-cn.com/problems/merge-sorted-array/ "merge-sorted-array")  | [sol 88](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/TwoPointer/LC88_MergeSortedArray) | two pointers |E|
 |[LC 19](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/ "remove-nth-node-from-end-of-list")  | [sol 19](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/TwoPointer/LC19_RemoveNthNodeFromEndOfList) | two pointers |M|
 |[LC 26](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/ "remove-duplicates-from-sorted-array")  | [sol 26](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/TwoPointer/LC26_RemoveDuplicatesFromSortedArray) | two pointers |E|
+|[LC 1047](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/ "remove-all-adjacent-duplicates-in-string")  | [sol 1047](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/StackQueueHeap/LC1047_RemoveAdjecentDuplicates.java) | stack |E|
 

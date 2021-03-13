@@ -41,6 +41,12 @@ This is weekly record summary from **Jan 25, 2021**:
 
 ## For CS545 extra credit purpose:
 
+### Mar 6 - Mar 12
+* Overview: (just for record of the problems I submitted, please review the following table for the problems I want to submit for extra credit)
+
+
+
+
 ### Feb 27 - Mar 5
 * Overview: (just for record of the problems I submitted, please review the following table for the problems I want to submit for extra credit)
 
