@@ -6,13 +6,17 @@ Author: **Chuxi Wang**
 
 ## Weekly Record
 
+This is weekly record summary from **Mar 6, 2021**:
+* [x] Mar 6 - Mar 12
+    * [x] E: 3
+    * [ ] M: 
+    * [ ] H: 
+
 This is weekly record summary from **Feb 27, 2021**:
 
-Record not updated due to interview.
-
 * [x] Feb 27 - Mar 5
-    * [ ] E: 
-    * [ ] M: 
+    * [x] E: 2
+    * [x] M: 2
     * [ ] H: 
 
 This is weekly record summary from **Feb 20, 2021**:
@@ -49,8 +53,7 @@ This is weekly record summary from **Jan 25, 2021**:
 | ------------- | ------------- | ------------- |------------- |
 |[LC 1047](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/ "remove-all-adjacent-duplicates-in-string")  | [sol 1047](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/StackQueueHeap/LC1047_RemoveAdjecentDuplicates.java) | stack |E|
 |[LC 232](https://leetcode-cn.com/problems/implement-queue-using-stacks/ "implement-queue-using-stacks")  | [sol 232](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/StackQueueHeap/LC232_QueueByStack.java) | stack, queue |E|
-
-
+|[LC 225](https://leetcode-cn.com/problems/implement-stack-using-queues/ "implement-stack-using-queues")  | [sol 225](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/StackQueueHeap/LC225_StackByQueue.java) | stack, queue |E|
 
 ### Feb 27 - Mar 5
 * Overview: (just for record of the problems I submitted, please review the following table for the problems I want to submit for extra credit)
