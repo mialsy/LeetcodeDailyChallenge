@@ -6,6 +6,12 @@ Author: **Chuxi Wang**
 
 ## Weekly Record
 
+This is weekly record summary from **Apr 10, 2021**:
+* [x] Apr 10 - Apr 16
+    * [x] E: 
+    * [ ] M: 
+    * [ ] H: 
+
 This is weekly record summary from **Mar 6, 2021**:
 * [x] Mar 6 - Mar 12
     * [x] E: 3
@@ -55,6 +61,9 @@ This is weekly record summary from **Jan 25, 2021**:
 |  Leetcode Link| Solution Link | Keyword | E/M/H? |
 | ------------- | ------------- | ------------- |------------- |
 |[LC 783](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/ "minimum-distance-between-bst-nodes")  | [sol 783](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/MyFavDataStructure/LC783_minimum_dist_bst_nodes.java) | BST |E|
+|[LC 1119](https://leetcode-cn.com/problems/remove-vowels-from-a-string/ "remove-vowels-from-a-string")  | [sol 1119](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/String/LC1119_remove_vowels.java) | String |E|
+|[LC 700](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/ "search-in-a-binary-search-tree")  | [sol 700](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/MyFavDataStructure/LC700_SearchInBST.java) | BST |E|
+
 
 
 ### Mar 6 - Mar 12
