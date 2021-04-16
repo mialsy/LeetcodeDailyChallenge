@@ -45,6 +45,18 @@ This is weekly record summary from **Jan 25, 2021**:
 
 ## For CS545 extra credit purpose:
 
+### Apr 10 - Apr 16
+* Overview: (just for record of the problems I submitted, please review the following table for the problems I want to submit for extra credit)
+
+<img src="" 
+      alt ="overview progress from Feb 27 - Mar 5, let me know if the img is broken"
+      width = "600" />
+      
+|  Leetcode Link| Solution Link | Keyword | E/M/H? |
+| ------------- | ------------- | ------------- |------------- |
+|[LC 783](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/ "minimum-distance-between-bst-nodes")  | [sol 783](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/MyFavDataStructure/LC783_minimum_dist_bst_nodes.java) | BST |E|
+
+
 ### Mar 6 - Mar 12
 * Overview: (just for record of the problems I submitted, please review the following table for the problems I want to submit for extra credit)
 
