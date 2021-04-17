@@ -8,7 +8,7 @@ Author: **Chuxi Wang**
 
 This is weekly record summary from **Apr 10, 2021**:
 * [x] Apr 10 - Apr 16
-    * [x] E: 
+    * [x] E: 5
     * [ ] M: 
     * [ ] H: 
 
@@ -55,7 +55,7 @@ This is weekly record summary from **Jan 25, 2021**:
 * Overview: (just for record of the problems I submitted, please review the following table for the problems I want to submit for extra credit)
 
 <img src="" 
-      alt ="overview progress from Feb 27 - Mar 5, let me know if the img is broken"
+      alt ="overview progress from Apr 10 - Apr 16, let me know if the img is broken"
       width = "600" />
       
 |  Leetcode Link| Solution Link | Keyword | E/M/H? |
@@ -66,13 +66,11 @@ This is weekly record summary from **Jan 25, 2021**:
 |[LC 637](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/ "average-of-levels-in-binary-tree")  | [sol 637](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/MyFavDataStructure/LC637_Level_average.java) | BST |E|
 |[LC 653](https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst/ "two-sum-iv-input-is-a-bst")  | [sol 653](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/MyFavDataStructure/LC653_two_sum_in_bst/java) | Two sum, BST |E|
 
-
-
 ### Mar 6 - Mar 12
 * Overview: (just for record of the problems I submitted, please review the following table for the problems I want to submit for extra credit)
 
 <img src="https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/Resources/Images/Screen%20Shot%202021-03-12%20at%209.35.53%20PM.png" 
-      alt ="overview progress from Feb 27 - Mar 5, let me know if the img is broken"
+      alt ="overview progress from Mar 6 - Mar 12, let me know if the img is broken"
       width = "600" />
       
 |  Leetcode Link| Solution Link | Keyword | E/M/H? |
