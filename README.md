@@ -9,7 +9,7 @@ Author: **Chuxi Wang**
 
 This is weekly record summary from **Apr 10, 2021**:
 * [x] Apr 17 - Apr 23
-    * [x] E: 1
+    * [x] E: 3
     * [x] M: 2
     * [ ] H: 
 
@@ -70,6 +70,8 @@ This is weekly record summary from **Jan 25, 2021**:
 |[LC 377](https://leetcode-cn.com/problems/combination-sum-iv/ "combination-sum-iv")  | [sol 377](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/DP/LC377_combinationSumIV.java) | DP |M|
 |[LC 27](https://leetcode-cn.com/problems/remove-element/ "remove-element")  | [sol 27](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/Other/LC27_RemoveElement.java) | two pointer |E|
 |[LC 222](https://leetcode-cn.com/problems/count-complete-tree-nodes/ "count-complete-tree-nodes")  | [sol 222](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/MyFavDataStructure/LC222_CountNode.java) | Complete Binary Tree, Bit operation |M|
+|[LC 530](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/ "minimum-absolute-difference-in-bst")  | [sol 530](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/MyFavDataStructure/LC530_MinDiffInBST.java) | BST |E|
+|[LC 606](https://leetcode-cn.com/problems/construct-string-from-binary-tree/ "construct-string-from-binary-tree")  | [sol 606](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/MyFavDataStructure/LC606_TreeToString.java) | Tree |E|
 
 ### Apr 10 - Apr 16
 * Overview: (just for record of the problems I submitted, please review the following table for the problems I want to submit for extra credit)
