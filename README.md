@@ -51,6 +51,20 @@ This is weekly record summary from **Jan 25, 2021**:
 
 ## For CS545 extra credit purpose:
 
+### Apr 17 - Apr 23
+* Overview: (just for record of the problems I submitted, please review the following table for the problems I want to submit for extra credit)
+
+<img src="" 
+      alt ="overview progress from Apr 17 - Apr 23, let me know if the img is broken"
+      width = "600" />
+      
+|  Leetcode Link| Solution Link | Keyword | E/M/H? |
+| ------------- | ------------- | ------------- |------------- |
+|[LC 377](https://leetcode-cn.com/problems/combination-sum-iv/ "combination-sum-iv")  | [sol 377](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/DP/LC377_combinationSumIV.java) | DP |M|
+|[LC 27](https://leetcode-cn.com/problems/remove-element/ "remove-element")  | [sol 27](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/Other/LC27_RemoveElement.java) | two pointer |E|
+|[LC 222](https://leetcode-cn.com/problems/count-complete-tree-nodes/ "count-complete-tree-nodes")  | [sol 222](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/MyFavDataStructure/LC222_CountNode.java) | Complete Binary Tree, Bit operation |M|
+
+
 ### Apr 10 - Apr 16
 * Overview: (just for record of the problems I submitted, please review the following table for the problems I want to submit for extra credit)
 
