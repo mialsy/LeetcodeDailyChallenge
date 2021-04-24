@@ -61,7 +61,7 @@ This is weekly record summary from **Jan 25, 2021**:
 ### Apr 17 - Apr 23
 * Overview: (just for record of the problems I submitted, please review the following table for the problems I want to submit for extra credit)
 
-<img src="https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/Resources/Images/Screen%20Shot%202021-04-23%20at%205.40.17%20PM.png" 
+<img src="https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/Resources/Images/Screen%20Shot%202021-04-23%20at%206.56.02%20PM.png" 
       alt ="overview progress from Apr 17 - Apr 23, let me know if the img is broken"
       width = "600" />
       
