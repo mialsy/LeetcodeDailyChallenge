@@ -64,7 +64,6 @@ This is weekly record summary from **Jan 25, 2021**:
 |[LC 27](https://leetcode-cn.com/problems/remove-element/ "remove-element")  | [sol 27](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/Other/LC27_RemoveElement.java) | two pointer |E|
 |[LC 222](https://leetcode-cn.com/problems/count-complete-tree-nodes/ "count-complete-tree-nodes")  | [sol 222](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/MyFavDataStructure/LC222_CountNode.java) | Complete Binary Tree, Bit operation |M|
 
-
 ### Apr 10 - Apr 16
 * Overview: (just for record of the problems I submitted, please review the following table for the problems I want to submit for extra credit)
 
