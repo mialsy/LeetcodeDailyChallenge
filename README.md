@@ -77,7 +77,7 @@ This is weekly record summary from **Jan 25, 2021**:
 |[LC 1119](https://leetcode-cn.com/problems/remove-vowels-from-a-string/ "remove-vowels-from-a-string")  | [sol 1119](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/String/LC1119_remove_vowels.java) | String |E|
 |[LC 700](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/ "search-in-a-binary-search-tree")  | [sol 700](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/MyFavDataStructure/LC700_SearchInBST.java) | BST |E|
 |[LC 637](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/ "average-of-levels-in-binary-tree")  | [sol 637](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/MyFavDataStructure/LC637_Level_average.java) | BST |E|
-|[LC 653](https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst/ "two-sum-iv-input-is-a-bst")  | [sol 653](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/MyFavDataStructure/LC653_two_sum_in_bst/java) | Two sum, BST |E|
+|[LC 653](https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst/ "two-sum-iv-input-is-a-bst")  | [sol 653](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/MyFavDataStructure/LC653_two_sum_in_bst.java) | Two sum, BST |E|
 
 ### Mar 6 - Mar 12
 * Overview: (just for record of the problems I submitted, please review the following table for the problems I want to submit for extra credit)
