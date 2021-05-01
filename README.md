@@ -6,8 +6,14 @@ Author: **Chuxi Wang**
 
 ## Weekly Record
 
+This is weekly record summary from **Apr 24, 2021**:
+* [x] Apr 17 - Apr 23
+    * [x] E: 4
+    * [ ] M: 
+    * [ ] H: 
 
-This is weekly record summary from **Apr 10, 2021**:
+
+This is weekly record summary from **Apr 17, 2021**:
 * [x] Apr 17 - Apr 23
     * [x] E: 3
     * [x] M: 2
@@ -61,8 +67,8 @@ This is weekly record summary from **Jan 25, 2021**:
 ### Apr 24 - Apr 30
 * Overview: (just for record of the problems I submitted, please review the following table for the problems I want to submit for extra credit)
 
-<img src="https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/Resources/Images/Screen%20Shot%202021-04-23%20at%206.56.02%20PM.png" 
-      alt ="overview progress from Apr 17 - Apr 23, let me know if the img is broken"
+<img src="https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/Resources/Images/Screen%20Shot%202021-04-30%20at%208.33.14%20PM.png" 
+      alt ="overview progress from Apr 24 - Apr 30, let me know if the img is broken"
       width = "600" />
       
 |  Leetcode Link| Solution Link | Keyword | E/M/H? |
