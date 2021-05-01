@@ -69,6 +69,8 @@ This is weekly record summary from **Jan 25, 2021**:
 | ------------- | ------------- | ------------- |------------- |
 |[LC 938](https://leetcode-cn.com/problems/range-sum-of-bst/ "range sum of bst")  | [sol 938](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/MyFavDataStructure/LC938_BSTRangeSum.java) | BST |E|
 |[LC 104](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/ "max depth of binary tree")  | [sol 104](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/MyFavDataStructure/LC104_MaxDepthBinaryTree.java) | Binary Tree |E|
+|[LC 1486](https://leetcode-cn.com/problems/xor-operation-in-an-array/ "xor-operation-in-an-array")  | [sol 1486](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/Other/LC1486_XOR.java) | Stimulation |E|
+|[LC 690](https://leetcode-cn.com/problems/employee-importance/ "employee-importance")  | [sol 690](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/GraphSearch/LC690_ImportanceOfEmployee.java) | DFS |E|
 
 
 ### Apr 17 - Apr 23
