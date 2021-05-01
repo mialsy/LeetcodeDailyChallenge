@@ -58,6 +58,19 @@ This is weekly record summary from **Jan 25, 2021**:
 
 ## For CS545 extra credit purpose:
 
+### Apr 24 - Apr 30
+* Overview: (just for record of the problems I submitted, please review the following table for the problems I want to submit for extra credit)
+
+<img src="https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/Resources/Images/Screen%20Shot%202021-04-23%20at%206.56.02%20PM.png" 
+      alt ="overview progress from Apr 17 - Apr 23, let me know if the img is broken"
+      width = "600" />
+      
+|  Leetcode Link| Solution Link | Keyword | E/M/H? |
+| ------------- | ------------- | ------------- |------------- |
+|[LC 938](https://leetcode-cn.com/problems/range-sum-of-bst/ "range sum of bst")  | [sol 938](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/MyFavDataStructure/LC938_BSTRangeSum.java) | BST |E|
+|[LC 104](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/ "max depth of binary tree")  | [sol 104](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/MyFavDataStructure/LC104_MaxDepthBinaryTree.java) | Binary Tree |E|
+
+
 ### Apr 17 - Apr 23
 * Overview: (just for record of the problems I submitted, please review the following table for the problems I want to submit for extra credit)
 
