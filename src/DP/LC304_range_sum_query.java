@@ -22,7 +22,7 @@ public class LC304_range_sum_query {
             }
         }
 
-        // calcualte col prefix
+        // calculate col prefix
         for (int i = 1; i < matrix.length; i++) {
             for (int j = 0; j < matrix[0].length; j++) {
                 prefixSum[i][j] += prefixSum[i - 1][j];
