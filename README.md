@@ -6,7 +6,7 @@ Author: **Chuxi Wang**
 
 ## Weekly Record
 
-This is weekly record summary from **Apr 24, 2021**:
+This is weekly record summary from **May 1, 2021**:
 * [x] May 1 - May 7
     * [ ] E: 
     * [x] M: 2 
@@ -73,7 +73,7 @@ This is weekly record summary from **Jan 25, 2021**:
 ### Apr 24 - Apr 30
 * Overview: (just for record of the problems I submitted, please review the following table for the problems I want to submit for extra credit)
 
-<img src="" 
+<img src="https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/Resources/Images/Screen%20Shot%202021-05-07%20at%205.59.59%20PM.png" 
       alt ="overview progress from May 1 - May 7, let me know if the img is broken"
       width = "600" />
       
