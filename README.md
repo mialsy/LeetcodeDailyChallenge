@@ -7,7 +7,13 @@ Author: **Chuxi Wang**
 ## Weekly Record
 
 This is weekly record summary from **Apr 24, 2021**:
-* [x] Apr 17 - Apr 23
+* [x] May 1 - May 7
+    * [ ] E: 
+    * [x] M: 2 
+    * [ ] H: 
+
+This is weekly record summary from **Apr 24, 2021**:
+* [x] Apr 24 - Apr 30
     * [x] E: 4
     * [ ] M: 
     * [ ] H: 
@@ -63,6 +69,19 @@ This is weekly record summary from **Jan 25, 2021**:
 
 
 ## For CS545 extra credit purpose:
+
+### Apr 24 - Apr 30
+* Overview: (just for record of the problems I submitted, please review the following table for the problems I want to submit for extra credit)
+
+<img src="" 
+      alt ="overview progress from May 1 - May 7, let me know if the img is broken"
+      width = "600" />
+      
+|  Leetcode Link| Solution Link | Keyword | E/M/H? |
+| ------------- | ------------- | ------------- |------------- |
+|[LC 1143](https://leetcode-cn.com/problems/longest-common-subsequence/ "longest-common-subsequence")  | [sol 1143](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/DP/LC1143_LongestCommanSubsequence.java) | DP |M|
+|[LC 5](https://leetcode-cn.com/problems/longest-palindromic-substring/ "longest-palindromic-substring")  | [sol 5](https://github.com/mialsy/LeetcodeDailyChallenge/blob/master/src/DP/LC5_LongestParlindrome.java) | DP |M|
+
 
 ### Apr 24 - Apr 30
 * Overview: (just for record of the problems I submitted, please review the following table for the problems I want to submit for extra credit)
